@@ -31,7 +31,7 @@ class Features extends Component {
         <section className="section" id="features">
             <Container>
             <SectionTitle
-                subtitle="Features"
+                subtitle="Productos"
                 title="Key features of the product"
                 desc="It will be as simple as occidental in fact, it will be Occidental."
             />               

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { Container, Row, Col } from "reactstrap";
-import { Link } from "react-router-dom";
+import { Container, Row } from "reactstrap";
+// import { Link } from "react-router-dom";
 
 //Import Section Title
 import SectionTitle from "../common/section-title";
@@ -11,12 +11,12 @@ class Process extends Component {
         super(props);
         this.state = {
             services : [
-                { icon : "grid", title : "Acceso inmediato ", desc : "To an English person, it will seem like English as skeptical." },
-                { icon : "edit", title : "Easy to customize", desc : "If several languages coalesce, the grammar of the language." },
-                { icon : "help-circle", title : "Soporte 24/7", desc : "Podrás preguntar cualquier inquietud mediante los canales correspondientes." },
+                { icon : "grid", title : "Acceso Inmediato ", desc : "Consulta tus cuotas, pagos y recibos, de forma rapida." },
+                { icon : "edit", title : "Uso Cómodo y Sencillo", desc : "Para brindarte una experiencia comoda y rapida." },
+                { icon : "help-circle", title : "Soporte a cualquier hora", desc : "Podrás preguntar cualquier inquietud mediante los canales correspondientes." },
                 { icon : "layers", title : "Diseño Intuitivo y Creativo", desc : "Elaborado para la mejor comprensión del sistema." },
-                { icon : "shield", title : "Seguridad y Transparencia", desc : "" },
-                { icon : "tablet", title : "Ios/Android", desc : "Facilidad de acceso desde la comodidad de tu Smartphone." },
+                { icon : "shield", title : "Seguridad y Transparencia", desc : "ofreciendo total veracidad en las informaciones consultadas." },
+                { icon : "tablet", title : "Multiplataforma", desc : "Facilidad de acceso desde la comodidad de tu Smartphone." },
             ]
         }
     }
@@ -29,7 +29,7 @@ class Process extends Component {
             <SectionTitle
                 subtitle="Servicios"
                 title="Servicios que proporcionamos"
-                desc="Será tan simple como hacer una transferencia bancaria."
+                desc="Automatiza los pagos de condominio mediante nuestros servicios."
             />
 
                 <Row>

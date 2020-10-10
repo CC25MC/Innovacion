@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import NavbarPage from "../../components/Navbar/Navbar_Page";
 import Section from './section';
 import Service from "../../components/Service/service";
-import Features from "../../components/Features/feature";
+// import Features from "../../components/Features/feature";
 // import Clients from '../../components/Client/client';
 import Pricing from "../../components/Pricing/pricing";
 // import Subscribe from "../../components/Subscribe/Subscribe";

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import { Container, Row, Col, Media } from "reactstrap";
 import FeatherIcon from 'feather-icons-react';
 
@@ -28,13 +28,13 @@ class Footer extends Component {
         <footer className="footer">
             <Container>
                 <Row>
-                    <Col lg={4} sm={6} >
+                    <Col lg={8} sm={6} >
                         <div>
                             <h5 className="mb-4 footer-list-title">Sobre Nosotros</h5>
-                            <p>The Invoza is a sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem eaque </p>
+                            <p>Tener un servicio que demuestre compromiso y dedicación por la comunidad es uno de nuestros más grandes sueños, por eso la creación de este sitio web el cual ayudará a cada vecino de la comunidad a llevar el control de sus pagos de condominio pero sobre todo a mantener la transparencia de la junta de condominio activa. </p>
                         </div>
                     </Col>
-                    <Col lg={{size:2, offset:1}} sm={6}>
+                    {/* <Col lg={{size:2, offset:1}} sm={6}>
                         <div>
                             <h5 className="mb-4 footer-list-title">Company</h5>
                             <ul className="list-unstyled footer-list-menu">
@@ -57,9 +57,9 @@ class Footer extends Component {
                                 }
                             </ul>
                         </div>
-                    </Col>
+                    </Col> */}
 
-                    <Col lg={3} sm={6}>
+                    <Col lg={4} sm={6}>
                         <div>
                             <h5 className="mb-4 footer-list-title">Contacto</h5>
 

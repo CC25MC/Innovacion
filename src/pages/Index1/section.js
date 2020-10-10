@@ -30,14 +30,13 @@ class Section extends Component {
                         <Row className="justify-content-center">
                             <Col lg={6}>
                                 <div className="hero-wrapper mb-4">
-                                    <p className="font-16 text-uppercase"></p>
-                                    <h1 className="hero-title mb-4">Descubre lo que podemos hacer <span className="text-primary">Por Ti</span></h1>
+                                    <p className="font-16 text-uppercase">Registrate ya !</p>
+                                    <h1 className="hero-title mb-4">Descubre los servicios que están a <span className="text-primary">tu disposición </span></h1>
 
-                                    <p></p>
+                                    <p>Desde nuestro sitio podrás verificar toda la información que requieras, en cualquier momento, desde tu dispositivo movil o de escritorio.</p>
 
                                     <div className="mt-4">
                                         <Link to="#" className="btn btn-primary  mr-4">Registrate</Link>
-                                        {/* <Link to="" className="btn btn-success mt-2 mr-2 ml-1">Aprende Más</Link> */}
                                         <Link onClick={this.callModal} to="#" className="video-play-icon text-success"><i className="mdi mdi-play play-icon-circle play play-iconbar"></i> APRENDE MÁS</Link>
                                     </div>
 
