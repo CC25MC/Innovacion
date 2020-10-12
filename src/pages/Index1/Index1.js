@@ -1,12 +1,8 @@
 import React, { Component } from 'react';
-
 import NavbarPage from "../../components/Navbar/Navbar_Page";
 import Section from './section';
 import Service from "../../components/Service/service";
-// import Features from "../../components/Features/feature";
-// import Clients from '../../components/Client/client';
 import Pricing from "../../components/Pricing/pricing";
-// import Subscribe from "../../components/Subscribe/Subscribe";
 import Footer from "../../components/Footer/footer";
 
 class Index1 extends Component {
@@ -16,7 +12,6 @@ class Index1 extends Component {
             navItems: [
                 { id: 1, idnm: "home", navheading: "Inicio" },
                 { id: 2, idnm: "services", navheading: "Servicios" },
-                // { id: 3, idnm: "features", navheading: "Productos" },
                 { id: 3, idnm: "pricing", navheading: "Precios" },
 
             ],
@@ -57,17 +52,8 @@ class Index1 extends Component {
                 {/* Importing Service */}
                 <Service />
 
-                {/* Importing Features */}
-                {/* <Features /> */}
-
-                {/* Importing Clients */}
-                {/* <Clients /> */}
-
                 {/* Importing Pricing */}
                 <Pricing />
-
-                {/* Importing Sunscribe */}
-                {/* <Subscribe /> */}
 
                 {/* Importing Footer */}
                 <Footer />
