@@ -22,13 +22,19 @@ class Pricing extends Component {
                 { title : "3 Habitaciones", price : 5, duration : "Mes",
                     features : [
                         { title : "Habitaciones", value : "3 hab" },
-                        { title : "Baños", value : "2 baño" },
+                        { title : "Baños", value : "2 baños" },
                     ]
                 },
                 { title : "Penthouses", price : 9, duration : "Mes",
                     features : [
                         { title : "Habitaciones", value : "4 hab" },
-                        { title : "Baños", value : "3 baño" },
+                        { title : "Baños", value : "3 baños" },
+                    ]
+                },
+                { title : "Penthouses Plus", price : 26, duration : "Mes",
+                    features : [
+                        { title : "Habitaciones", value : "----" },
+                        { title : "Baños", value : "----" },
                     ]
                 },
             ],
@@ -42,15 +48,21 @@ class Pricing extends Component {
                  { title : "3 Habitaciones", price : 5*12, duration : "Anual",
                      features : [
                         { title : "Habitaciones", value : "3 hab" },
-                        { title : "Baños", value : "2 baño" },
+                        { title : "Baños", value : "2 baños" },
                      ]
                  },
                  { title : "Penthouses", price : 9*12, duration : "Anual",
                      features : [
                         { title : "Habitaciones", value : "4 hab" },
-                        { title : "Baños", value : "3 baño" },
+                        { title : "Baños", value : "3 baños" },
                      ]
                  },
+                 { title : "Penthouses Plus", price : 26*12, duration : "Anual",
+                    features : [
+                        { title : "Habitaciones", value : "----" },
+                        { title : "Baños", value : "----" },
+                    ]
+                },
              ],
             activeTab: '1',
         }

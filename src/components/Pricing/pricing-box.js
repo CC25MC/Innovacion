@@ -8,7 +8,7 @@ class PricingBox extends Component {
             <React.Fragment>
                 {
                     this.props.pricings.map((pricing, key) =>
-                        <Col lg={4} key={key}>
+                        <Col lg={3} key={key}>
                             <div className="pricing-plan card text-center">
                                 <CardBody className="p-4">
                                     <h5 className="mt-2 mb-5">{pricing.title}</h5>

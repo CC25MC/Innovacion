@@ -13,7 +13,6 @@ class Index1 extends Component {
                 { id: 1, idnm: "home", navheading: "Inicio" },
                 { id: 2, idnm: "services", navheading: "Servicios" },
                 { id: 3, idnm: "pricing", navheading: "Precios" },
-
             ],
             pos: document.documentElement.scrollTop,
             imglight: false,
