@@ -1,27 +1,24 @@
 {
   "files": {
     "main.css": "/react-Comunity-Service/static/css/main.2312a4c8.chunk.css",
-    "main.js": "/react-Comunity-Service/static/js/main.e1c59e5d.chunk.js",
-    "main.js.map": "/react-Comunity-Service/static/js/main.e1c59e5d.chunk.js.map",
+    "main.js": "/react-Comunity-Service/static/js/main.f07dfec1.chunk.js",
+    "main.js.map": "/react-Comunity-Service/static/js/main.f07dfec1.chunk.js.map",
     "runtime-main.js": "/react-Comunity-Service/static/js/runtime-main.d1c2fa4f.js",
     "runtime-main.js.map": "/react-Comunity-Service/static/js/runtime-main.d1c2fa4f.js.map",
-    "static/css/2.7550f3b0.chunk.css": "/react-Comunity-Service/static/css/2.7550f3b0.chunk.css",
-    "static/js/2.299cfe75.chunk.js": "/react-Comunity-Service/static/js/2.299cfe75.chunk.js",
-    "static/js/2.299cfe75.chunk.js.map": "/react-Comunity-Service/static/js/2.299cfe75.chunk.js.map",
+    "static/js/2.69abd961.chunk.js": "/react-Comunity-Service/static/js/2.69abd961.chunk.js",
+    "static/js/2.69abd961.chunk.js.map": "/react-Comunity-Service/static/js/2.69abd961.chunk.js.map",
     "index.html": "/react-Comunity-Service/index.html",
-    "precache-manifest.9e5d99f20a800f9ea89c3e78e9dc0205.js": "/react-Comunity-Service/precache-manifest.9e5d99f20a800f9ea89c3e78e9dc0205.js",
+    "precache-manifest.238d5676928c35535af31a038988b86b.js": "/react-Comunity-Service/precache-manifest.238d5676928c35535af31a038988b86b.js",
     "service-worker.js": "/react-Comunity-Service/service-worker.js",
-    "static/css/2.7550f3b0.chunk.css.map": "/react-Comunity-Service/static/css/2.7550f3b0.chunk.css.map",
     "static/css/main.2312a4c8.chunk.css.map": "/react-Comunity-Service/static/css/main.2312a4c8.chunk.css.map",
-    "static/js/2.299cfe75.chunk.js.LICENSE.txt": "/react-Comunity-Service/static/js/2.299cfe75.chunk.js.LICENSE.txt",
-    "static/media/home-img.png": "/react-Comunity-Service/static/media/home-img.b7340a70.png",
+    "static/js/2.69abd961.chunk.js.LICENSE.txt": "/react-Comunity-Service/static/js/2.69abd961.chunk.js.LICENSE.txt",
+    "static/media/doctor-img.png": "/react-Comunity-Service/static/media/doctor-img.1ff41d14.png",
     "static/media/materialdesignicons.min.css": "/react-Comunity-Service/static/media/materialdesignicons-webfont.a32fa1f2.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.d1c2fa4f.js",
-    "static/css/2.7550f3b0.chunk.css",
-    "static/js/2.299cfe75.chunk.js",
+    "static/js/2.69abd961.chunk.js",
     "static/css/main.2312a4c8.chunk.css",
-    "static/js/main.e1c59e5d.chunk.js"
+    "static/js/main.f07dfec1.chunk.js"
   ]
 }
