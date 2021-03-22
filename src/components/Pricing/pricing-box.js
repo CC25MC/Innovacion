@@ -16,7 +16,7 @@ class PricingBox extends Component {
                                     <h1 className="mb-5"><sup><small>$</small></sup>{pricing.price}/ <span className="font-16">{pricing.duration}</span></h1>
 
                                     <div>
-                                        <Link to="#" className="btn btn-primary">Cotizar Taza del dia </Link>
+                                        <Link to="#" className="btn btn-primary">Conoce más sobre este plan</Link>
                                     </div>
                                     <div className="plan-features mt-5">
                                         {

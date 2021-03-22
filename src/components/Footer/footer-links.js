@@ -9,7 +9,7 @@ class FooterLinks extends Component {
     render() {
         return (
             <React.Fragment>
-        <section className="bg-primary py-3">
+        <section className="bg py-3">
             <Container>
                 <Row>
                     <Col lg={12}>
@@ -19,7 +19,7 @@ class FooterLinks extends Component {
                             </Link>
                         </div>
                         <div className="float-sm-right mt-4 mt-sm-0">
-                            <p className="copyright-desc text-white mt-2">{new Date().getFullYear()} © Residencias Angostura</p>
+                            <p className="copyright-desc text-black mt-2">{new Date().getFullYear()} © Residencias Angostura</p>
                         </div>
                     </Col>
                 </Row>

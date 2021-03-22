@@ -1,8 +1,8 @@
 {
-  "name": "invoza",
+  "name": "doctor",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://cc25mc.github.io/react-Comunity-Service",
+  "homepage": "http://cc25mc.github.io/Innovacion",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
