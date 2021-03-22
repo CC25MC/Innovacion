@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-Comunity-Service/static/css/main.2312a4c8.chunk.css",
-    "main.js": "/react-Comunity-Service/static/js/main.f07dfec1.chunk.js",
-    "main.js.map": "/react-Comunity-Service/static/js/main.f07dfec1.chunk.js.map",
-    "runtime-main.js": "/react-Comunity-Service/static/js/runtime-main.d1c2fa4f.js",
-    "runtime-main.js.map": "/react-Comunity-Service/static/js/runtime-main.d1c2fa4f.js.map",
-    "static/js/2.69abd961.chunk.js": "/react-Comunity-Service/static/js/2.69abd961.chunk.js",
-    "static/js/2.69abd961.chunk.js.map": "/react-Comunity-Service/static/js/2.69abd961.chunk.js.map",
-    "index.html": "/react-Comunity-Service/index.html",
-    "precache-manifest.238d5676928c35535af31a038988b86b.js": "/react-Comunity-Service/precache-manifest.238d5676928c35535af31a038988b86b.js",
-    "service-worker.js": "/react-Comunity-Service/service-worker.js",
-    "static/css/main.2312a4c8.chunk.css.map": "/react-Comunity-Service/static/css/main.2312a4c8.chunk.css.map",
-    "static/js/2.69abd961.chunk.js.LICENSE.txt": "/react-Comunity-Service/static/js/2.69abd961.chunk.js.LICENSE.txt",
-    "static/media/doctor-img.png": "/react-Comunity-Service/static/media/doctor-img.1ff41d14.png",
-    "static/media/materialdesignicons.min.css": "/react-Comunity-Service/static/media/materialdesignicons-webfont.a32fa1f2.eot"
+    "main.css": "/Innovacion/static/css/main.49453074.chunk.css",
+    "main.js": "/Innovacion/static/js/main.98798200.chunk.js",
+    "main.js.map": "/Innovacion/static/js/main.98798200.chunk.js.map",
+    "runtime-main.js": "/Innovacion/static/js/runtime-main.5697af35.js",
+    "runtime-main.js.map": "/Innovacion/static/js/runtime-main.5697af35.js.map",
+    "static/js/2.4b9b7afb.chunk.js": "/Innovacion/static/js/2.4b9b7afb.chunk.js",
+    "static/js/2.4b9b7afb.chunk.js.map": "/Innovacion/static/js/2.4b9b7afb.chunk.js.map",
+    "index.html": "/Innovacion/index.html",
+    "precache-manifest.0f0763ffd5c2d0e2307f791834f40d86.js": "/Innovacion/precache-manifest.0f0763ffd5c2d0e2307f791834f40d86.js",
+    "service-worker.js": "/Innovacion/service-worker.js",
+    "static/css/main.49453074.chunk.css.map": "/Innovacion/static/css/main.49453074.chunk.css.map",
+    "static/js/2.4b9b7afb.chunk.js.LICENSE.txt": "/Innovacion/static/js/2.4b9b7afb.chunk.js.LICENSE.txt",
+    "static/media/doctor-img.png": "/Innovacion/static/media/doctor-img.1ff41d14.png",
+    "static/media/materialdesignicons.min.css": "/Innovacion/static/media/materialdesignicons-webfont.a32fa1f2.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1c2fa4f.js",
-    "static/js/2.69abd961.chunk.js",
-    "static/css/main.2312a4c8.chunk.css",
-    "static/js/main.f07dfec1.chunk.js"
+    "static/js/runtime-main.5697af35.js",
+    "static/js/2.4b9b7afb.chunk.js",
+    "static/css/main.49453074.chunk.css",
+    "static/js/main.98798200.chunk.js"
   ]
 }
